@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">SimpleCustomDialogs</string>
+    <string name="cancel">cancel</string>
+	<string name="clear">clear</string>
+	<string name="send">send</string>
+	<string name="enter_text_title">Enter text:</string>
+	
+</resources>
